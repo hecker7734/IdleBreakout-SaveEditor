@@ -7,6 +7,6 @@ Paste in your save code, don't know how to get one? [Click here](https://github.
 
 
 
-#get a save code
+# get a save code
 1. open settings, then click export.
 2. done.
