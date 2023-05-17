@@ -9,8 +9,8 @@ Want to edit an IdleBreakout save? You probably don't even know the game.
 6. Copy the encoded save.
 7. Load the save. don't know how? [ClickHere](#How-to-save-code)  
 ---
-  
-  
+If you find any new id, by chance you can report it to me through issues.  
+---
   
   
   
